@@ -1,3 +1,5 @@
 # GitFeatureBranchTest
 
 Hello World!
+
+Bye!
